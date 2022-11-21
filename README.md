@@ -5,8 +5,9 @@
   
 # Technologies Used
 1. HTML
-2. Django
-3. Express
+2. Python
+3. Django
+4. Express
 
 # User Stories
 As an owner, I want to...
