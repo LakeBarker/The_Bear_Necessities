@@ -22,7 +22,9 @@ As an owner, I want to...
 5. update events
 6. delete events
 7. respond to comments
+
 As a viewer I want to...
+
 1. See the timeline
 2. click on and see events
 3. be able to comment on events
